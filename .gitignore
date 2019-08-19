@@ -3,6 +3,8 @@
 workspace.xml
 *.db
 dogs-vs-cats/
+model/
+model_checkpoint/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
