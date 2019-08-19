@@ -5,6 +5,8 @@ workspace.xml
 dogs-vs-cats/
 model/
 model_checkpoint/
+cifa-10-batches/
+cifa-100-python/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
