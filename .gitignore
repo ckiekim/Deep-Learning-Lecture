@@ -7,6 +7,8 @@ model/
 model_checkpoint/
 cifa-10-batches/
 cifa-100-python/
+model_cifar-10-full/
+model_cifar-100/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
